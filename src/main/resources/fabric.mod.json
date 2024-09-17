@@ -2,17 +2,17 @@
 	"schemaVersion": 1,
 	"id": "testmod",
 	"version": "${version}",
-	"name": "TestMod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Test Mod",
+	"description": "My first Mod!",
 	"authors": [
-		"Me!"
+		"vaporvee"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://vaporvee.com",
+		"sources": "https://github.com/vaporvee/TestMod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/testmod/icon.png",
+	"icon": "assets/testmod/textures/item/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
